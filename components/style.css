@@ -1,0 +1,16 @@
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+a{
+	text-decoration: none;
+}
+
+body{
+	background-color: #B2D3E6;
+	font-family: helvetica;
+}
+
+
+
